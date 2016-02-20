@@ -10,3 +10,12 @@ Hello from terminal!
 ```
 
 :tada:
+
+## Find prime numbers
+
+Find prime numbers between 2 and 10000000. Calculate execution time. 
+
+```swift
+$ ./prime.swift
+Find prime numbers between 2 and 10000000 :: Time: 21.4241750240326
+```
